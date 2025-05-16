@@ -27,7 +27,7 @@
             Esquema do Cenário: Autenticar multiplos usuários
             Quando eu digitar o <usuario>
             E a <senha>
-            Então deve exibir a <mensagem> de sucesso
+            Então deve exibir a mensagem de sucesso "Olá, sejam bem vindos"
 
             Exemplo
             | usuario              | senha      |
