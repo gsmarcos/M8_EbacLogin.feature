@@ -30,8 +30,8 @@
             Então deve exibir a mensagem de sucesso "Olá, sejam bem vindos"
 
             Exemplo
-            | usuario              | senha      |
-            | "marcos@ebac.com.br" | "senha321" |
-            | "jan@ebac.com.br"    | "senha321" |
-            | "plinio@ebac.com.br" | "senha321" |
+            | usuario              | senha      | Olá, sejam bem vindos |
+            | "marcos@ebac.com.br" | "senha321" | Olá, sejam bem vindos |
+            | "jan@ebac.com.br"    | "senha321" | Olá, sejam bem vindos |
+            | "plinio@ebac.com.br" | "senha321" | Olá, sejam bem vindos |
 
